@@ -1,0 +1,9 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    padding: 19px 15px 19px;
+}
+
+.header__link {
+    cursor: pointer;
+}

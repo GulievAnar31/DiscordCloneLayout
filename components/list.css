@@ -1,0 +1,47 @@
+.list {
+  background: #25272a;
+  opacity: 0.75;
+  padding: 35px 24px;
+}
+
+.list__header {
+  display: flex;
+  margin-bottom: 30px;
+  align-items: center;
+  justify-content: center;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.list__title {
+  margin-right: 5px;
+}
+
+
+.list__arrow {
+  cursor: pointer;
+  margin-right: 77px;
+}
+
+.list__settings {
+  cursor: pointer;
+}
+
+.list__threads {
+  display: flex;
+  align-items: center;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #B5B5B5;
+}
+
+.list__threadsLogo {
+  margin-right: 11px;
+}
