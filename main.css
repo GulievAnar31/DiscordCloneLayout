@@ -2,6 +2,9 @@
 @import url('./components/normalize.css');
 @import url('./components/header.css');
 @import url('./components/list.css');
+@import url('./components/channels.css');
+@import url('./components/friends.css');
+@import url('./components/friend.css');
 
 .container {
     max-width: 1401px;

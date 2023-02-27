@@ -1,0 +1,14 @@
+.friends {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 14px;
+    color: #919191;
+}
+
+.friends__header {
+    display: flex;
+    gap: 147px;
+    text-transform: uppercase;
+}
