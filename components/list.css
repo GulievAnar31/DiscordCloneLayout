@@ -1,7 +1,10 @@
 .list {
+  max-height: 899px;
   background: #25272a;
   opacity: 0.75;
   padding: 35px 24px;
+  overflow: hidden;
+  overflow-y: scroll;
 }
 
 .list__header {
@@ -52,4 +55,18 @@
 
 .list__friends {
   margin-top: 17px;
+}
+
+.list::-webkit-scrollbar {
+  width: 12px;
+}
+
+.list::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0);
+}
+
+.list::-webkit-scrollbar-thumb {
+  background-color: #B5B5B5;
+  border-radius: 20px;
+  border: 3px solid rgba(0, 0, 0, 0);;
 }

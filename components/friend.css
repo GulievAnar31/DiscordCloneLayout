@@ -1,12 +1,18 @@
 .friend {
+    margin-top: 25px;
     display: flex;
     text-align: center;
+    align-items: center;
     gap: 10px;
-    justify-content: space-evenly;
+    cursor: pointer;
 }
 
 .friend__online {
     fill: #70CC16;
+}
+
+.friend__ofline {
+    fill: #666666;
 }
 
 .friend__avatar {
