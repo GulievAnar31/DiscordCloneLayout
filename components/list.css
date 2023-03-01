@@ -66,7 +66,7 @@
 }
 
 .list::-webkit-scrollbar-thumb {
-  background-color: #B5B5B5;
+  background-color: #5858583a;
   border-radius: 20px;
-  border: 3px solid rgba(0, 0, 0, 0);;
+  /* border: 1px solid rgba(0, 0, 0, 0);; */
 }

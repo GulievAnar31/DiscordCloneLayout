@@ -1,0 +1,39 @@
+.content {
+    background: #ffffff;
+    box-sizing: border-box;
+}
+
+.content__header {
+    box-sizing: border-box;
+    display: flex;
+    padding: 31px 23px 14px;
+    border-bottom: 1px solid black;
+    text-align: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.content__title {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    margin-right: 365px;
+}
+
+.content__count {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: right;
+    color: #A4A4A4;
+    margin-right: 24px;
+}
+
+.content__notification {
+    margin-right: 24px;
+}

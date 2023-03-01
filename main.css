@@ -5,6 +5,7 @@
 @import url('./components/channels.css');
 @import url('./components/friends.css');
 @import url('./components/friend.css');
+@import url('./components/content.css');
 
 .container {
     max-width: 1401px;
